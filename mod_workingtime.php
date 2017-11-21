@@ -19,4 +19,5 @@ $curTime = date('d.m.Y H:i');
 
 require JModuleHelper::getLayoutPath('mod_workingtime', $layout);
 
+
 ?>
